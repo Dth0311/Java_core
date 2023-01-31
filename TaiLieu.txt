@@ -1,0 +1,272 @@
+					CHƯƠNG 9 : Tính trừu tượng, interface
+Thực hành: Tự định nghĩa Interface : https://www.youtube.com/watch?v=qbam2PDAO2g
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson53.pdf
+Giai: 
+
+Bài 54: Lớp vô danh – anonymous class : https://www.youtube.com/watch?v=rbSYKx0CV8g -  https://www.youtube.com/watch?v=-gpaU1UCq9k
+
+Bài 55: Một số interface thường dùng trong sắp xếp : https://www.youtube.com/watch?v=OsdaxRGlgpg - https://www.youtube.com/watch?v=_qS9smCb3Zk
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson55.pdf
+Giai : https://github.com/thantrieu/ExercisesLesson55/tree/master/src/net/braniumacademy
+
+Bài 56: So sánh abstract class với interface : https://www.youtube.com/watch?v=5S2JEcAbfVg&feature=emb_logo
+
+							CHƯƠNG 10 : XỬ LÝ NGOẠI LỆ 
+Bài 58: Tổng quan về xử lý ngoại lệ : https://www.youtube.com/watch?v=2t4Q6ifQJr0 - https://www.youtube.com/watch?v=iWSB4WUJbhM
+
+Bài 59: Checked vs Unchecked exceptions : https://www.youtube.com/watch?v=k_okCGCne4I&feature=emb_logo - https://www.youtube.com/watch?v=McD4HgTplxg
+
+Bài 60: Sử dụng try-catch-finally : https://www.youtube.com/watch?v=0mYRSpNpxo0 - https://www.youtube.com/watch?v=F8U0rA2kJqY
+
+Bài 61: Sử dụng throw và throws : https://www.youtube.com/watch?v=AhfUUYZebcM - https://www.youtube.com/watch?v=MHWwC617hYk
+
+Bài 62: Ngoại lệ do người dùng tự định nghĩa : https://www.youtube.com/watch?v=-I6rDgfb5Bg - https://www.youtube.com/watch?v=swRKYFRSF_o
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson62.pdf
+Giai : https://github.com/thantrieu/ExercisesLesson62/tree/master/src/net/braniumacademy
+
+						CHƯƠNG 11 : COLLECTION, GENERIC
+Bài 63: Phương thức generic : https://www.youtube.com/watch?v=Jsi__felQfk - https://www.youtube.com/watch?v=NpOkewUizk8
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson63.pdf
+Giai : https://github.com/thantrieu/ExercisesLesson63/tree/master/src/net/braniumacademy
+
+Bai 64: Lớp generic : https://www.youtube.com/watch?v=rpETIXDLKKY - https://www.youtube.com/watch?v=fRoytxhRzek
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson64.pdf
+Giai : https://github.com/thantrieu/ExercisesLesson64/tree/master/src/net/braniumacademy
+
+Bài 65: Giới thiệu Collections Framework ; https://www.youtube.com/watch?v=Co7xJGw25FQ&t=1s
+
+Bài 66A: Sử dụng Stack, Queue : https://www.youtube.com/watch?v=U7dpYfzpiLs
+
+Bài 66B: Sử dụng LinkedList, HashSet, TreeSet : https://www.youtube.com/watch?v=V71xLD34gvs
+
+Bài 66C: Sử dụng HashMap, TreeMap : https://www.youtube.com/watch?v=if40mH6MkMA
+
+						CHƯƠNG 12: REGULAR EXPRESSION
+Bài 67: Tổng quan về regular expression : https://www.youtube.com/watch?v=r3yU0F45aVQ - https://www.youtube.com/watch?v=VLG0cAPLAdc
+BT : https://drive.google.com/file/d/1aRdP8Sjoz1tUPCRb8bBzflG5o8Of3CAF/view
+Giai ; https://github.com/thantrieu/ExercisesLesson67
+
+Bài 68: Kiểm tra định dạng mã sinh viên: https://www.youtube.com/watch?v=inVVoT5i1FU
+
+Bài 69: Kiểm tra định dạng mã nhân viên: https://www.youtube.com/watch?v=pofI1_JmLbc
+
+Bài 70: kiểm tra định dạng email: https://www.youtube.com/watch?v=5MYCmBcE8zU&t=1s
+
+Bài 71: Kiểm tra định dạng mật khẩu: https://www.youtube.com/watch?v=XaJwj4rRiCg
+
+					CHƯƠNG 13: THAO TÁC VỚI FILE, KẾT NỐI CƠ SỞ DỮ LIỆU
+Bài 72: Thao tác với file nhị phân: https://www.youtube.com/watch?v=U0Ssjwqi7oY - https://www.youtube.com/watch?v=oEyg3srycA4
+
+Bài 73: Try with resource: https://www.youtube.com/watch?v=mM5W2atuAIA
+
+Bài 74: Đọc ghi đối tượng với ObjectInputStream và ObjectOutputStream: https://www.youtube.com/watch?v=YImvA08UTe0 - https://www.youtube.com/watch?v=TAlsWz8IFn8
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson74.pdf
+Giai: https://github.com/thantrieu/ExercisesLesson74/tree/master/src/net/braniumacademy
+
+Cài đặt SQL Server, MySQL-Xapp: https://www.youtube.com/watch?v=LSSG5jNF9bk
+
+Cài đặt Apache Netbeans
+
+Kết nối Netbeans với SQL Server, Xampp
+
+Bài 75: Đọc dữ liệu ra từ CSDL : https://www.youtube.com/watch?v=Yu1s9v6tzlg
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson75.pdf
+Database Mẫu : https://github.com/thantrieu/java_course1_exercises/blob/master/Databases/student_management.bacpac
+
+Bài 76: Ghi dữ liệu vào CSDL : https://www.youtube.com/watch?v=VqKcIJGGp-s
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson76.pdf
+
+Bài 77: Sửa dữ liệu trong CSDL : https://www.youtube.com/watch?v=GnsJvFA4Iww
+BT ; https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson77.pdf
+
+Bài 78: Xóa dữ liệu khỏi CSDL : https://www.youtube.com/watch?v=A8wUQG8nbF0
+BT : https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20t%E1%BA%ADp%20lesson78.pdf
+
+					CHƯƠNG 14: LẬP TRÌNH GIAO DIỆN JAVA SWING
+Bài 79: Giới thiệu về giao diện Apache Netbeans: https://www.youtube.com/watch?v=ANh7Z-QKJe4
+Bài 80: Sử dụng JFrame : https://www.youtube.com/watch?v=0K8AOeARjeQ
+Bài 81: Sử dụng JLabel : https://www.youtube.com/watch?v=4jrg90VOdac
+Bài 82: Sử dụng JButton : https://www.youtube.com/watch?v=YByK95l0xX0
+Ứng dụng : https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnJavaSwing.jar
+Hình ảnh : https://github.com/thantrieu/java_course1_exercises/tree/master/Swing%20Images
+Project mẫu : https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnJavaSwing-Lesson82.zip
+
+Hướng dẫn tải và mở project với Netbeans IDE: https://www.youtube.com/watch?v=yY8xJ3E1_3g
+Bài 83: Thiết lập bắt sự kiện customize cho các nút: https://www.youtube.com/watch?v=RnEXrd2_23Q
+Project mẫu : https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnJavaSwing-Lesson83.zip
+
+Bài 84: Sử dụng JTextField: https://www.youtube.com/watch?v=iSExMY2CmlI - https://www.youtube.com/watch?v=frTNv6vbYss - https://www.youtube.com/watch?v=ntgQ25OTUa4
+Link tải project: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingTextFieldLesson84.zip
+Link tải hình ảnh: https://github.com/thantrieu/java_course1_exercises/tree/master/Swing%20Images
+
+Bài 85: Sử dụng JPasswordField: https://www.youtube.com/watch?v=HIOyIZ67Alc
+Tải project: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingPasswordFieldLesson85.zip
+Bài 86: Sử dụng Text Area: https://www.youtube.com/watch?v=Vv_d5UnY8HY
+Tải app demo: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson86.jar
+Tải project mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson86.zip
+Bài 87: Sử dụng Combo Box & lớp model của Combo Box: https://www.youtube.com/watch?v=LxoZqYMJZ0s
+Tải app demo: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson87.jar
+Tải project mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson87.zip
+Lesson 87B: Create Combo Box model class - https://www.youtube.com/watch?v=XakHnCgY8cI&t=2s
+Tải app demo: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson87_2.jar
+Tải project mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson87_2.rar
+
+Bài 88: Sử dụng Table, thêm, sửa, xóa trong bảng 
+Phần 1: Tạo, thiết kế bảng với JTable - https://www.youtube.com/watch?v=OmtnFltqLYc
+Link tải app mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson88.jar
+Link tải project mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson88.zip
+
+Phần 2: Sửa thông tin trong bảng - https://www.youtube.com/watch?v=QweYhcjRBAs
+Link tải app mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson88_2.jar
+Link tải project mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson88_2.zip
+
+Phần 3: Xóa dữ liệu khỏi bảng - https://www.youtube.com/watch?v=c7dwGJlv5nE
+Link tải app mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson88_3.jar
+Link tải project mẫu : https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson88_3.zip
+
+Bài 89: Sử dụng Panel - https://www.youtube.com/watch?v=IZaccpGYiAQ
+Link tải app mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson89.jar
+Link tải project mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson89.zip
+
+Bài 90: Sử dụng Radio Button và Button Group - https://www.youtube.com/watch?v=fJ5RNaE65wU
+Link tải app mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson90.jar
+Link tải project mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson90.zip
+
+Bài 91: Sử dụng Check Box - https://www.youtube.com/watch?v=FhhJs2Ktsv8
+Link tải app mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson91.jar
+Hình ảnh : https://github.com/thantrieu/java_course1_exercises/tree/master/Swing%20Images/images%20lesson%2091
+Link tải project mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson91.zip
+
+Bài 92: Sử dụng Tabbed Pane - https://www.youtube.com/watch?v=0gAQO_-FTvI
+Link tải app mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson92.jar
+Link tải project mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson92.zip
+
+Bài 93: Sử dụng JDialog Form - https://www.youtube.com/watch?v=KwKB5MJrqIA
+Link tải app mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson93.jar
+Link tải project mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson93.zip
+
+Bài 94: Sử dụng File Chooser - https://www.youtube.com/watch?v=XM1bmBQmDOQ
+Link tải app mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson94.jar
+Link tải project mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson94.zip
+
+Bài 95: Sử dụng Progress Bar - https://www.youtube.com/watch?v=7lyHkEIf90E
+Link tải app mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson95.jar
+Link tải project mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson95.zip
+
+Bài 96: Sử dụng Menu
+Phần 1: Xây dựng ứng dụng với Menu - https://www.youtube.com/watch?v=C872zHiCYd8
+Code mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson96.zip
+App demo:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson96.jar
+Hình ảnh sử dụng trong ứng dụng:https://github.com/thantrieu/java_course1_exercises/tree/master/Swing%20Images/images%20lesson%2096
+
+Phần 2: Thiết lập các hành động cho menu - https://www.youtube.com/watch?v=mfCly2tO6eY
+Code mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20projects/LearnSwingLesson96.zip
+App demo:https://github.com/thantrieu/java_course1_exercises/blob/master/Swing%20examples%20demo/LearnSwingLesson96.jar
+Hình ảnh sử dụng trong ứng dụng:https://github.com/thantrieu/java_course1_exercises/tree/master/Swing%20Images/images%20lesson%2096
+
+							CHƯƠNG 15: ĐA LUỒNG TRONG JAVA
+Bài 97: Đa luồng
+Bài 98A: Đồng bộ hóa các luồng với ReentrantLock
+
+						DỰ ÁN TỐT NGHIỆP CUỐI KHÓA
+Đề tài cuối khóa Java CƠ BẢN: https://drive.google.com/file/d/1Sv_nlgz4NSUE3_GoUAb-6WYvynFCifKA/view
+Đề tài cuối khóa Java NÂNG CAO : https://drive.google.com/file/d/14-9PAk29v4w00M6kI2plfKdQdcI4jbFj/view
+						
+					CHƯƠNG 17: HƯỚNG DẪN THỰC HIỆN ĐỀ TÀI CUỐI KHÓA
+Quản lý đăng ký môn học – Phần 1-5
+Phần 1: phân tích đề bài - https://www.youtube.com/watch?v=2SKqrrzzZvE
+
+Phần 2: thiết kế giao diện tổng quát - https://www.youtube.com/watch?v=tI9ty27VWxw&t=1s
+Project Mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_v1.zip
+
+Phần 3: thiết kế giao diện chi tiết tab quản lý môn học - https://www.youtube.com/watch?v=5q-MwO4mzJM
+Project Mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p3.zip
+
+Phần 4: hiết kế giao diện chức năng search và sort môn học - https://www.youtube.com/watch?v=ATFyjY1pmXQ
+Project Mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p4.zip
+
+Phần 5: Thiết kế giao diện chức năng thêm mới môn học - https://www.youtube.com/watch?v=tUDbDZgOr-c
+Project Mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p5.zip
+
+Phần 6:  đăng ký sự kiện cho các nút - https://www.youtube.com/watch?v=lYYrCTMgnKQ
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p6.zip
+
+Phần 7: Thêm mới môn học - https://www.youtube.com/watch?v=oMoungo4QHQ
+Project Mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p7.zip
+
+Phần 8: Đọc ghi file Object - https://www.youtube.com/watch?v=pX2Oa0I5xGc
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p8.zip
+
+Phần 9: Xóa thông tin môn học - https://www.youtube.com/watch?v=o1bOrdDiMxo
+Project Mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p9.zip
+
+Phần 10: Sửa thông tin môn học - https://www.youtube.com/watch?v=xgPZ6KopTNM
+Project Mẫu: https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p10.zip
+
+Phần 11: Sắp xếp danh sách môn học - https://www.youtube.com/watch?v=S8dWtJpMaVQ
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p11.zip
+
+Phần 12: Tìm kiếm môn học - https://www.youtube.com/watch?v=K_G1eV3SiGs
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p12.zip
+
+Phần 13: Thêm menu thoát ứng dụng - https://www.youtube.com/watch?v=pno_cCZyuLA
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p14.zip
+
+Phần 14: Thiết kế lớp thực thể và giao diện tab Quản lý sinh viên - https://www.youtube.com/watch?v=cVlIOfq2gUE
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p14.zip
+
+Phần 15: Thiết kế giao diện thêm mới sinh viên - https://www.youtube.com/watch?v=_4P6rwOMYe4
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p15.zip
+
+Phần 16: Thiết kế các lớp ngoại lệ và mẫu regex để kiểm tra ngoại lệ - https://www.youtube.com/watch?v=PUyGvEKikAM
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p16.zip
+
+Phần 17: Thêm mới sinh viên - https://www.youtube.com/watch?v=oEQHseTLmhI
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p17.zip
+
+Phần 18: Sửa thông tin sinh viên - https://www.youtube.com/watch?v=X6CoVzEu3qo
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p18.zip
+
+Phần 19: Xóa sinh viên khỏi bảng - https://www.youtube.com/watch?v=FmMSrjo4ATI
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p19.zip
+
+Phần 20: Sắp xếp danh sách sinh viên - https://www.youtube.com/watch?v=N2MUa0CvG2A
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p20.zip
+
+Phần 21: Tìm kiếm sinh viên - https://www.youtube.com/watch?v=dqK-Zr5n2t4
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p21.zip
+
+Phần 22: Thiết kế giao diện tab Quản lý đăng ký môn học - https://www.youtube.com/watch?v=fE880v8HopU
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p22.rar
+
+Phần 23: Thiết kế giao diện thêm mới bản đăng ký - https://www.youtube.com/watch?v=Y1oCBPRDuMg
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p23.zip
+
+Phần 24: Thêm mới bản đăng ký môn học - https://www.youtube.com/watch?v=iPd49PA7BQE
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p24.zip
+
+Phần 25: Xóa bản đăng ký môn học - https://www.youtube.com/watch?v=erwI8KvBO28
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p25.zip
+
+Phần 26: Sắp xếp bảng đăng ký môn học - https://www.youtube.com/watch?v=yQw0tqmrYxU
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p26.zip
+
+Phần 27: Tìm kiếm bảng đăng ký môn học - https://www.youtube.com/watch?v=jyCqjbjEqL8
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p27.zip
+
+Phần 28: Xếp lớp cho sinh viên đăng ký - https://www.youtube.com/watch?v=7jB7_nSCl5c
+Project Mẫu:https://github.com/thantrieu/java_course1_exercises/blob/master/B%C3%A0i%20gi%E1%BA%A3i%20m%E1%BA%ABu%20%C4%91%E1%BB%81%20cu%E1%BB%91i%20kh%C3%B3a/FinalProject1_p28.zip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
